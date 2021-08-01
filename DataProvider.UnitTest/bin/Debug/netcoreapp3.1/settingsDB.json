@@ -1,0 +1,5 @@
+{
+  "AddressCollectionName": "AddressesENG",
+  "ConnectionString": "mongodb://localhost:27017",
+  "DatabaseName": "AddressesServiceDB"
+}

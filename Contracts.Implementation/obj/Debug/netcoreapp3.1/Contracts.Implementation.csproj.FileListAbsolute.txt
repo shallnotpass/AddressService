@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Solution1\Contracts.Implementation\bin\Debug\netcoreapp3.1\Contracts.Implementation.deps.json
+C:\Users\User\source\repos\Solution1\Contracts.Implementation\bin\Debug\netcoreapp3.1\Contracts.Implementation.dll
+C:\Users\User\source\repos\Solution1\Contracts.Implementation\bin\Debug\netcoreapp3.1\Contracts.Implementation.pdb
+C:\Users\User\source\repos\Solution1\Contracts.Implementation\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\User\source\repos\Solution1\Contracts.Implementation\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\User\source\repos\Solution1\Contracts.Implementation\obj\Debug\netcoreapp3.1\Contracts.Implementation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Solution1\Contracts.Implementation\obj\Debug\netcoreapp3.1\Contracts.Implementation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Solution1\Contracts.Implementation\obj\Debug\netcoreapp3.1\Contracts.Implementation.AssemblyInfo.cs
+C:\Users\User\source\repos\Solution1\Contracts.Implementation\obj\Debug\netcoreapp3.1\Contracts.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Solution1\Contracts.Implementation\obj\Debug\netcoreapp3.1\Contracts.Implementation.csproj.CopyComplete
+C:\Users\User\source\repos\Solution1\Contracts.Implementation\obj\Debug\netcoreapp3.1\Contracts.Implementation.dll
+C:\Users\User\source\repos\Solution1\Contracts.Implementation\obj\Debug\netcoreapp3.1\Contracts.Implementation.pdb
